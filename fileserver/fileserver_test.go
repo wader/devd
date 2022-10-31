@@ -23,11 +23,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/cortesi/devd/fstmpl"
-	"github.com/cortesi/devd/inject"
-	"github.com/cortesi/devd/routespec"
-	"github.com/cortesi/devd/templates"
 	"github.com/cortesi/termlog"
+	"github.com/wader/devd/fstmpl"
+	"github.com/wader/devd/inject"
+	"github.com/wader/devd/routespec"
+	"github.com/wader/devd/templates"
 )
 
 // ServeFile replies to the request with the contents of the named file or directory.

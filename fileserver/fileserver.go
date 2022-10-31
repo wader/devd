@@ -20,9 +20,9 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/cortesi/devd/inject"
-	"github.com/cortesi/devd/routespec"
 	"github.com/cortesi/termlog"
+	"github.com/wader/devd/inject"
+	"github.com/wader/devd/routespec"
 )
 
 const sniffLen = 512

@@ -9,11 +9,11 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/cortesi/devd/fileserver"
-	"github.com/cortesi/devd/httpctx"
-	"github.com/cortesi/devd/inject"
-	"github.com/cortesi/devd/reverseproxy"
-	"github.com/cortesi/devd/routespec"
+	"github.com/wader/devd/fileserver"
+	"github.com/wader/devd/httpctx"
+	"github.com/wader/devd/inject"
+	"github.com/wader/devd/reverseproxy"
+	"github.com/wader/devd/routespec"
 )
 
 // Endpoint is the destination of a Route - either on the filesystem or

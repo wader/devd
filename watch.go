@@ -4,9 +4,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/cortesi/devd/livereload"
 	"github.com/cortesi/moddwatch"
 	"github.com/cortesi/termlog"
+	"github.com/wader/devd/livereload"
 )
 
 const batchTime = time.Millisecond * 200

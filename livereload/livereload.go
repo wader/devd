@@ -9,9 +9,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/cortesi/devd/inject"
 	"github.com/cortesi/termlog"
 	"github.com/gorilla/websocket"
+	"github.com/wader/devd/inject"
 )
 
 //go:embed client.js

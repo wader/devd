@@ -6,9 +6,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/cortesi/devd/fstmpl"
-	"github.com/cortesi/devd/inject"
-	"github.com/cortesi/devd/templates"
+	"github.com/wader/devd/fstmpl"
+	"github.com/wader/devd/inject"
+	"github.com/wader/devd/templates"
 )
 
 func tFilesystemEndpoint(s string) *filesystemEndpoint {

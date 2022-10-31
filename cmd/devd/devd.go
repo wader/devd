@@ -5,10 +5,10 @@ import (
 	"os"
 	"path"
 
-	"github.com/cortesi/devd"
 	"github.com/cortesi/termlog"
 	"github.com/mitchellh/go-homedir"
 	"github.com/toqueteos/webbrowser"
+	"github.com/wader/devd"
 	"gopkg.in/alecthomas/kingpin.v2"
 )
 

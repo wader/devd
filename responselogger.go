@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/cortesi/devd/timer"
 	"github.com/cortesi/termlog"
 	"github.com/dustin/go-humanize"
 	"github.com/fatih/color"
+	"github.com/wader/devd/timer"
 )
 
 // ResponseLogWriter is a ResponseWriter that logs

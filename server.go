@@ -17,14 +17,14 @@ import (
 
 	"github.com/goji/httpauth"
 
-	"github.com/cortesi/devd/fstmpl"
-	"github.com/cortesi/devd/httpctx"
-	"github.com/cortesi/devd/inject"
-	"github.com/cortesi/devd/livereload"
-	"github.com/cortesi/devd/slowdown"
-	"github.com/cortesi/devd/templates"
-	"github.com/cortesi/devd/timer"
 	"github.com/cortesi/termlog"
+	"github.com/wader/devd/fstmpl"
+	"github.com/wader/devd/httpctx"
+	"github.com/wader/devd/inject"
+	"github.com/wader/devd/livereload"
+	"github.com/wader/devd/slowdown"
+	"github.com/wader/devd/templates"
+	"github.com/wader/devd/timer"
 )
 
 const (
