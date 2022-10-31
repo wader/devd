@@ -1,14 +1,13 @@
 module github.com/cortesi/devd
 
-go 1.12
+go 1.16
 
 require (
-	github.com/GeertJohan/go.rice v1.0.2
 	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751 // indirect
 	github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d // indirect
 	github.com/cortesi/moddwatch v0.0.0-20210323234936-df014e95c743
 	github.com/cortesi/termlog v0.0.0-20210222042314-a1eec763abec
-	github.com/daaku/go.zipexe v1.0.1 // indirect
+	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dustin/go-humanize v1.0.0
 	github.com/fatih/color v1.13.0
 	github.com/goji/httpauth v0.0.0-20160601135302-2da839ab0f4d
