@@ -20,7 +20,7 @@ require (
 	github.com/stretchr/testify v1.5.1 // indirect
 	github.com/toqueteos/webbrowser v1.2.0
 	golang.org/x/crypto v0.1.0 // indirect
-	golang.org/x/net v0.1.0
+	golang.org/x/net v0.7.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	gopkg.in/yaml.v2 v2.2.8 // indirect
